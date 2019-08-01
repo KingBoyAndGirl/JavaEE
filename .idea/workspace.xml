@@ -2,55 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="deae8142-4a3d-4291-98e0-acb510ae829a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/king/travel/css/bootstrap-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/king/travel/css/bootstrap-theme.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/king/travel/css/bootstrap-theme.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/king/travel/css/bootstrap-theme.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/king/travel/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/king/travel/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/king/travel/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/king/travel/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/king/travel/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/king/travel/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/king/travel/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/king/travel/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/king/travel/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/king/travel/img/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/king/travel/img/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/king/travel/img/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/king/travel/img/06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/king/travel/img/banner_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/king/travel/img/banner_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/king/travel/img/banner_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/king/travel/img/footer_service.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/king/travel/img/guonei_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/king/travel/img/hot_tel.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/king/travel/img/hotel_tel.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/king/travel/img/icon_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/king/travel/img/icon_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/king/travel/img/icon_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/king/travel/img/icon_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/king/travel/img/icon_5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/king/travel/img/icon_6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/king/travel/img/icon_7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/king/travel/img/jiangwai_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/king/travel/img/jiangxuan_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/king/travel/img/jiangxuan_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/king/travel/img/jiangxuan_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/king/travel/img/jiangxuan_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/king/travel/img/jiangxuan_5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/king/travel/img/jingxuan_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/king/travel/img/logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/king/travel/img/top_banner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/king/travel/jquery-3.4.1/jquery-3.4.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/king/travel/jquery-3.4.1/jquery-3.4.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/king/travel/jquery-3.4.1/jquery插件库.url" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/king/travel/jquery-3.4.1/www.jq22.com.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/king/travel/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/king/travel/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/king/travel/js/npm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/king/travel/案例_黑马旅游网_页眉部分.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/king/Jsoup/JsoupDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/libs/JsoupXpath-0.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/libs/jsoup-1.11.2.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaEE.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaEE.iml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,10 +14,14 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JavaEE" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -80,21 +40,23 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/king/travel" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/libs" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Project\JavaEE\src\com\king\travel" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\JavaEE\src\libs" />
       <recent name="D:\Project\JavaEE\src\com\king\travel" />
       <recent name="D:\Project\JavaEE\src\com\king\register" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Project\JavaEE\src\com\king\travel" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -144,6 +106,7 @@
       <updated>1564565290981</updated>
       <workItem from="1564565300140" duration="977000" />
       <workItem from="1564566525050" duration="13419000" />
+      <workItem from="1564619157608" duration="6372000" />
     </task>
     <task id="LOCAL-00001" summary="注册页面（静态）">
       <created>1564577401764</created>
@@ -152,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564577401764</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="旅游网（静态）">
+      <created>1564619400194</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1564619400194</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,6 +143,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="注册页面（静态）" />
-    <option name="LAST_COMMIT_MESSAGE" value="注册页面（静态）" />
+    <MESSAGE value="旅游网（静态）" />
+    <option name="LAST_COMMIT_MESSAGE" value="旅游网（静态）" />
   </component>
 </project>
