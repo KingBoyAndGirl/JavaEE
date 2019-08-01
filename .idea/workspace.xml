@@ -7,33 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="deae8142-4a3d-4291-98e0-acb510ae829a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/ASUS.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/commons_beanutils_1_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/king/login/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/king/login/domain/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/king/login/servlet/FailServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/king/login/servlet/LoginServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/king/login/servlet/SuccessServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/king/login/test/UserDaoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/king/login/util/JDBCUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dbconfig.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-beanutils-1.9.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-collections-3.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-logging-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/druid-1.1.17.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/mysql-connector-java-8.0.16.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-beans-5.1.8.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-core-5.1.8.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-jdbc-5.1.8.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-tx-5.1.8.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/king/checkCode/CheckCodeServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/regiter.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaEE.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaEE.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -92,9 +68,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Class" />
         <option value="FxmlFile" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -146,8 +122,8 @@
       <recent name="com.king.login.servlet" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Project\JavaEE\web\WEB-INF" />
       <recent name="D:\Project\JavaEE\web" />
+      <recent name="D:\Project\JavaEE\web\WEB-INF" />
       <recent name="D:\Project\JavaEE\src" />
       <recent name="D:\Project\JavaEE\src\com\king\login" />
       <recent name="D:\Project\JavaEE\src\com\king\login\lib" />
@@ -334,7 +310,7 @@
       <updated>1564565290981</updated>
       <workItem from="1564565300140" duration="977000" />
       <workItem from="1564566525050" duration="13419000" />
-      <workItem from="1564619157608" duration="17721000" />
+      <workItem from="1564619157608" duration="22256000" />
     </task>
     <task id="LOCAL-00001" summary="注册页面（静态）">
       <created>1564577401764</created>
@@ -357,7 +333,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564653060361</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="登录案例">
+      <created>1564666037875</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1564666037875</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -380,6 +363,7 @@
     <MESSAGE value="注册页面（静态）" />
     <MESSAGE value="旅游网（静态）" />
     <MESSAGE value="XML学习" />
-    <option name="LAST_COMMIT_MESSAGE" value="XML学习" />
+    <MESSAGE value="登录案例" />
+    <option name="LAST_COMMIT_MESSAGE" value="登录案例" />
   </component>
 </project>

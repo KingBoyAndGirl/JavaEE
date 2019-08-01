@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script>
+        /*
+                分析：
+                点击超链接或者图片，需要换一张
+                1.给超链接和图片绑定单击事件
+
+                2.重新设置图片的src属性值
+         */
+
+        function refreshCode(){
+            //1.获取图片对象
+            var img = document.getElementById("checkCode");
+            //加时间戳
+            var date = new Date();
+            img.src="/JavaEE/checkCodeServlet?"+date;
+        }
+        window.onload=function (){
+            //1.获取图片对象
+            var img = document.getElementById("checkCode");
+            //2.绑定单击事件
+            img.onclick=refreshCode;
+        }
+    </script>
+</head>
+<body>
+    <img id="checkCode" src="/JavaEE/checkCodeServlet" alt="验证码">
+
+    <a id="change" href="javascript:refreshCode()">看不清换一张</a>
+</body>
+</html>
