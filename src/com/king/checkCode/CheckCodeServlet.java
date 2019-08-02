@@ -42,15 +42,20 @@ public class CheckCodeServlet extends HttpServlet {
 
         String str="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
         //生成随机角标
+        StringBuilder sb = new StringBuilder();
         Random random = new Random();
         for (int i = 0; i < 4; i++) {
             int index = random.nextInt(str.length());
             //获取字符
             char ch = str.charAt(index);    //随机字符
+            sb.append(ch);
+
             //2.3写验证码
             graphics.drawString(ch+"",width/5*i+10,height/2);
         }
-
+        String checkCode_session = sb.toString();
+        //将验证码存入session
+        request.getSession().setAttribute("checkCode_session",checkCode_session);
         //2.4画干扰线
         graphics.setColor(Color.GREEN);
 
